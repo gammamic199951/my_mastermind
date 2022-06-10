@@ -8,6 +8,6 @@ Find the right combinaison of colors !
 write the initial of the colors CVMNJ
 
 ## Screenshots
-![Title](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/title.png)
-![Rules](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/rules.png)
-![Menu](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/menu.png)
+![](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/title.png)
+![](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/rules.png)
+![](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/menu.png)
