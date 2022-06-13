@@ -2,15 +2,12 @@
 
 Find the mysterious combinaison of colors !
 
-## Controls
-
-Write the initial of the colors CVMNJ
-
-## Screenshots
 ![title](screenshots/title.png)
 
-
+## Rules
 ![rules](screenshots/rules.png)
 
-
+## Menu
 ![menu](screenshots/menu.png)
+
+## The Game
