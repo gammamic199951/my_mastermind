@@ -7,10 +7,10 @@ Find the mysterious combinaison of colors !
 Write the initial of the colors CVMNJ
 
 ## Screenshots
-![title](https://user-images.githubusercontent.com/92811728/173348928-67af46e9-9229-41da-b043-a9dbf662e739.png)
+![title](screenshots/title.png)
 
 
 ![rules](screenshots/rules.png)
 
 
-![menu](https://github.com/gammamic199951/my_mastermind/blob/main/screenshots/menu.png)
+![menu](screenshots/menu.png)
